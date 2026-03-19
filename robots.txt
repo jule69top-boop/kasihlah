@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://panoco.co.jp/en/sitemap.xml
